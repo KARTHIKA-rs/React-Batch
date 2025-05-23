@@ -1,0 +1,12 @@
+Command	Description
+
+git init	Initializes a new Git repository
+git clone   <url>	Copies a repo from remote to local machine
+git status	Shows the current state of the repo (modified files, etc.)
+git add <file>	Stages changes for commit
+git commit -m "message"	Commits staged changes with a message
+git push	Sends local commits to the remote repository (like GitHub)
+git pull	Fetches and merges changes from remote
+git branch	Lists or creates branches
+git checkout <branch>	Switches to a different branch
+git merge <branch>	Merges changes from one branch into another
